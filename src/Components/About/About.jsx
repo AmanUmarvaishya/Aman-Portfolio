@@ -1,5 +1,5 @@
 import React from "react";
-import amanPic from "../../assets/amanPic.jpg";
+import amanPic from "../../assets/amanPic.png";
 import { IoArrowForward } from "react-icons/io5";
 const About = () => {
   return (
