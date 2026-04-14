@@ -22,7 +22,7 @@ const About = () => {
                   Opps,Java Programming
                 </h2>
                 <p className="text-sm md:text-md leading-tight">
-                  I have a strong understanding of Java Programming and Object-Oriented Programming (OOP) concepts such as inheritance, polymorphism, encapsulation, and abstraction. I can effectively apply these principles to build structured, scalable, and maintainable applications.
+                  I have a strong understanding of Java Programming and Object-Oriented Programming OOP concepts such as inheritance, polymorphism, encapsulation, and abstraction. I can effectively apply these principles to build structured, scalable, and maintainable applications.
                 </p>
               </span>
             </div>

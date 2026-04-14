@@ -9,7 +9,7 @@ const Home = () => {
           <TextChange />
         </h1>
         <p className="text-sm md:text-2xl tracking-tight ">
-         I am a recent graduate from Dr. Abdul Kalam Technical University with a Bachelor of Technology in Computer Science and Engineering, holding a CGPA of 7.9. I have a strong foundation in programming and software development, with hands-on experience across multiple technologies including <B> Java, Object-Oriented Programming (OOP), SQL, and the MERN stack.</B>
+         I am a recent graduate from Dr. Abdul Kalam Technical University with a Bachelor of Technology in Computer Science and Engineering, holding a CGPA of 7.9. I have a strong foundation in programming and software development, with hands-on experience across multiple technologies including  Java, Object-Oriented Programming OOP, SQL, and the MERN stack.
 
 I am currently seeking entry-level opportunities where I can apply my technical skills, continue learning, and contribute to building impactful software solutions in a collaborative environment.
         </p>
