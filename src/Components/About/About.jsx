@@ -13,15 +13,16 @@ const About = () => {
           <img className="md:h-80" src={amanPic} alt="About img" style={{borderRadius:'40px'}} />
 
           <ul>
-            <div className="flex gap-3 py-4">
+
+             <div className="flex gap-3 py-4">
               <IoArrowForward size={30} className="mt-1" />
 
               <span className="w-96">
-                <h1 className="text-xl md:text-2xl font-semibold leading-normal">
-                  Frontend developer
-                </h1>
+                <h2 className="text-xl md:text-2xl font-semibold leading-normal">
+                  Opps,Java Programming
+                </h2>
                 <p className="text-sm md:text-md leading-tight">
-                  In frontEnd technology with a strong skills in <b> HTML CSS javascript and React.js</b>. I create responsive, clean and user-friendly web interface. Hand-on -experience in building real-world projects like e-commerce sites etc.
+                  I have a strong understanding of Java Programming and Object-Oriented Programming (OOP) concepts such as inheritance, polymorphism, encapsulation, and abstraction. I can effectively apply these principles to build structured, scalable, and maintainable applications.
                 </p>
               </span>
             </div>
@@ -29,11 +30,23 @@ const About = () => {
               <IoArrowForward size={30} className="mt-1" />
 
               <span className="w-96">
-                <h1 className="text-xl md:text-2xl font-semibold leading-normal">
-                  Database developer
-                </h1>
+                <h2 className="text-xl md:text-2xl font-semibold leading-normal">
+                  Frontend
+                </h2>
                 <p className="text-sm md:text-md leading-tight">
-                  A database with hand-on experince in <b>Mongodb </b>. i build efficient, secure,and scalable data solution. i focus on writing,ensuring data integrity and fast data indexing.
+                  I have hands-on experience in front-end development using technologies like HTML, CSS, and JavaScript. I can build responsive and user-friendly interfaces using modern frameworks such as React.js.
+                </p>
+              </span>
+            </div>
+             <div className="flex gap-3 py-4">
+              <IoArrowForward size={30} className="mt-1" />
+
+              <span className="w-96">
+                <h2 className="text-xl md:text-2xl font-semibold leading-normal">
+                  Backend
+                </h2>
+                <p className="text-sm md:text-md leading-tight">
+                 I have hands-on experience in backend development using technologies like Node.js and Express.js. I can design and build RESTful APIs, handle server-side logic, and manage databases efficiently using MongoDB and SQL.
                 </p>
               </span>
             </div>
@@ -41,14 +54,15 @@ const About = () => {
               <IoArrowForward size={30} className="mt-1" />
 
               <span className="w-96">
-                <h1 className="text-xl md:text-2xl font-semibold leading-normal">
-                  Backend developer
-                </h1>
+                <h2 className="text-xl md:text-2xl font-semibold leading-normal">
+                  Database
+                </h2>
                 <p className="text-sm md:text-md leading-tight">
-                  In Backend development I have hand-on-experience creating robust APIs ,managing database and building the logic that modern web apps.
+                 I have a strong understanding of databases, including MongoDB and SQL. I can efficiently design, manage, and handle data operations for scalable and reliable applications.
                 </p>
               </span>
             </div>
+           
           </ul>
         </div>
       </div>
